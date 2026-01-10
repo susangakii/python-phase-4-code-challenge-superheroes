@@ -6,8 +6,13 @@ name = "pypi"
 [packages]
 flask = "*"
 flask-sqlalchemy = "*"
+Werkzeug = "*"
 flask-migrate = "*"
 flask-restful = "*"
+importlib-metadata = "*"
+importlib-resources = "*"
+ipdb = "*"
+faker = "*"
 sqlalchemy-serializer = "*"
 flask-mail = "*"
 
